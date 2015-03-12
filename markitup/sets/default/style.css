@@ -1,0 +1,97 @@
+/* -------------------------------------------------------------------
+// markItUp!
+// By Jay Salvat - http://markitup.jaysalvat.com/
+// ------------------------------------------------------------------*/
+.html .titres a {
+	background-image:url(images/h1.png); 
+}
+.html .titres .markItUpButton1-1 a {
+	background:url(images/h1.png) no-repeat 0 5px; 
+}
+.html .titres .markItUpButton1-2 a {
+	background:url(images/h2.png) no-repeat 0 5px; 
+}
+.html .titres .markItUpButton1-3 a {
+	background:url(images/h3.png) no-repeat 0 5px; 
+}
+.html .titres .markItUpButton1-4 a {
+	background:url(images/h4.png) no-repeat 0 5px; 
+}
+.html .titres .markItUpButton1-5 a {
+	background:url(images/h5.png) no-repeat 0 5px; 
+}
+.html .titres .markItUpButton1-6 a {
+	background:url(images/h6.png) no-repeat 0 5px; 
+}
+
+.html .titres .markItUpButton1-1 a:hover {
+	background:#A1A1A1 url(images/h1.png) no-repeat 0 5px; 
+}
+.html .titres .markItUpButton1-2 a:hover {
+	background:#A1A1A1 url(images/h2.png) no-repeat 0 5px; 
+}
+.html .titres .markItUpButton1-3 a:hover {
+	background:#A1A1A1 url(images/h3.png) no-repeat 0 5px; 
+}
+.html .titres .markItUpButton1-4 a:hover {
+	background:#A1A1A1 url(images/h4.png) no-repeat 0 5px; 
+}
+.html .titres .markItUpButton1-5 a:hover {
+	background:#A1A1A1 url(images/h5.png) no-repeat 0 5px; 
+}
+.html .titres .markItUpButton1-6 a:hover {
+	background:#A1A1A1 url(images/h6.png) no-repeat 0 5px; 
+}
+
+.html .markItUpButton2 a {
+	background-image:url(images/paragraph.png); 
+}
+
+.html .markItUpButton3 a {
+	background-image:url(images/bold.png);
+}
+.html .markItUpButton4 a {
+	background-image:url(images/italic.png);
+}
+.html .markItUpButton5 a {
+	background-image:url(images/stroke.png);
+}
+
+.html .markItUpButton6 a {
+	background-image:url(images/list-bullet.png);
+}
+.html .markItUpButton7 a {
+	background-image:url(images/list-numeric.png);
+}
+.html .markItUpButton8 a {
+	background-image:url(images/list-item.png);
+}
+
+.html .markItUpButton9 a {
+	background-image:url(images/briefcase.png); 
+}
+.html .markItUpButton10 a {
+	background-image:url(images/link_go.png); 
+}
+.html .markItUpButton11 a {
+	background-image:url(images/link.png);
+}
+.html .markItUpButton12 a {
+	background-image:url(images/table.png);
+}
+
+.html .markItUpButton13 a {
+	background-image:url(images/clean.png);
+}
+.html .markItUpButton14 a {
+	background-image:url(images/arrow_out.png);
+}
+.html .markItUpButton15 a {
+	background-image:url(images/arrow_in.png);
+}
+.html .preview a {
+	background-image:url(images/preview.png);
+}
+.html .Html a {
+	background-image:url(images/html.png);
+}
